@@ -2,11 +2,11 @@
 
 Sistema notas alumnos, prueba con php 2017.
 
-# BD 
+### BD 
 
 file: BD/BD.sql
 
-# Configuracion de BD 
+### Configuracion de BD 
 
 file:  /funciones/dbdatos.php
 
