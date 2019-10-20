@@ -10,14 +10,11 @@ file: BD/BD.sql
 
 file:  /funciones/dbdatos.php
 
-<?php
-	
-	//Datos necesarios para la conexion a BD
+//Datos necesarios para la conexion a BD
 
-	$db='BD prueba';			// nombre de la base de datos 
-	$server='localhost';		
-	$usudb='phpmyadmin';		  // usuario base de datos	
-	$pass='phpmyadmin'; 		  // password de la base de datos 
+$db='BDprueba';		// nombre de la base de datos 
+$server='localhost';		
+$usudb='phpmyadmin';	  // usuario base de datos	
+$pass='phpmyadmin'; 	  // password de la base de datos 
 	
-?>
 
