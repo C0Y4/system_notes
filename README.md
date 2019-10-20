@@ -12,9 +12,12 @@ file:  /funciones/dbdatos.php
 
 //Datos necesarios para la conexion a BD
 
-$db='BDprueba';		// nombre de la base de datos 
-$server='localhost';		
+$db='BDprueba';		  // nombre de la base de datos 
+
+$server='localhost';	  //ipserver	
+
 $usudb='phpmyadmin';	  // usuario base de datos	
+
 $pass='phpmyadmin'; 	  // password de la base de datos 
 	
 
