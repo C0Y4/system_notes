@@ -1,0 +1,33 @@
+
+#listado{
+
+	color:white;
+	margin-top: 20px;
+	margin-left: 0px;
+
+}
+
+table{
+
+	color:white;
+	font-size: 13px;
+
+
+}
+.lista{
+
+	color:#ff8000;
+	font-size: 14px;
+	font-weight: bold
+
+}
+
+table, th, td {
+    border: 1px solid #ff8000;
+}
+
+#cuerpo{
+
+	margin-bottom:75px;
+
+}

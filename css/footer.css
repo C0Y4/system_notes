@@ -1,0 +1,27 @@
+footer{
+
+	text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    bottom: 0;
+    position:fixed;
+	background-color: #ff8000;		
+	height:50px;
+	padding:0px;
+	border-top: 5px solid white;
+
+}
+
+h5{
+
+	margin-top:10px;
+	color:black;
+
+}
+
+#integrante{
+
+	font-size: 12;
+	color:black
+
+}

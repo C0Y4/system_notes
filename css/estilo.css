@@ -1,0 +1,72 @@
+
+html, div, body, h1, input{
+    
+	margin: 0px;
+	padding: 5px;
+    border:0px;
+    font-size: 100%;
+
+}
+
+body {
+    
+	font-family: arial, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+#formulario {
+
+	margin: 120px auto 0 auto;
+
+}
+
+h1{
+
+	font-size: 25px;
+    color: white;
+
+}
+
+form{
+
+	margin: 15px auto 0 auto;
+    	text-align: center;
+}
+
+input{
+
+	width: 250px;
+
+}
+
+.boton-trans
+{
+	background-color: rgba(255, 255, 255, 0.15);
+   	border: 1px solid gray;
+    border-radius: 6px;
+    color:rgb(255,255,255);
+
+}
+#boton-enviar
+{
+	border-radius: 6px;
+    border-style: none;
+    background-color: #ff8000;
+    color: white;
+
+}
+
+.captcha{
+
+	border-radius: 3px;
+	border-style-none;
+	background-color: rgba(255, 255, 255, 0.15);
+	border-top: 0px auto 0 auto;
+	width: 80px;
+	border: 1px solid gray;
+
+}
+
+
